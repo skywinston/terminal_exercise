@@ -1,0 +1,3 @@
+My name is Sky
+My desk neighbor today is Ian
+Everything in this file has been added via terminal commands
